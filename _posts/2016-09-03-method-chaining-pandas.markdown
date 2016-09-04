@@ -15,5 +15,6 @@ Pandas.pipe:
    .pipe(g, arg1=a)
    .pipe(f, arg2=b, arg3=c)
 ){% endhighlight %}
-I have [an example](https://github.com/msamuel/hacks-pandas/blob/master/method_chaining.ipynb “Method Chaining”) Jupiter notebook. Happy Pythoning.
+I have [an example](https://github.com/msamuel/hacks-pandas "Method Chaining") Jupiter notebook. 
+Happy Pythoning.
 

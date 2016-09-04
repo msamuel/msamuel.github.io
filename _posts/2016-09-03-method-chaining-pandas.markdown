@@ -4,7 +4,7 @@ title:  "Method Chaining in Pandas"
 date:   2016-09-03 14:40:57 -0500
 ---
 
-The Pipe function allows one to combine operations sequentially. This works the same as in Linux. In short, your command line skills transfer directly. This approach doesn't replace the need for a workflow manager but serves well for small to medium single-machine tasks. For example, one can perform ETL on data using Pandas data frame. The user-defined function can be used over and over. The syntax is simple. I have [an example](https://github.com/msamuel/hacks-pandas/blob/master/method_chaining.ipynb "Method Chaining") Jupiter notebook. 
+The Pipe function allows one to combine operations sequentially. This works the same as in Linux. In short, your command line skills transfer directly. I have [an example](https://github.com/msamuel/hacks-pandas/blob/master/method_chaining.ipynb "Method Chaining") Jupiter notebook. This approach doesn't replace the need for a workflow manager but serves well for small to medium single-machine tasks. For example, one can perform ETL on data using Pandas data frame. The user-defined function can be used over and over. The syntax is simple. 
 
 Pandas.pipe:
 

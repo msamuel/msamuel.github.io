@@ -8,7 +8,7 @@ The Pipe function allows one to combine operations sequentially. This works the 
 
 
 
-###Pandas.pipe:
+### Pandas.pipe:
 
 {% highlight python %}
 (df.pipe(h)
